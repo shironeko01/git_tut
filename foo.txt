@@ -4,8 +4,6 @@ B
 C
 D
 E
-<<<<<<< HEAD
 F
-=======
 EEE
->>>>>>> new-branch-2
+G
